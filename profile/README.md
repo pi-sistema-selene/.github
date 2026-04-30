@@ -36,8 +36,6 @@ Sistema inteligente para centralização de dados e monitoramento para cultivo d
 
 ### Componentes Principais
 
-| Módulo | Tecnologia | Função |
-|--------|------------|--------|
 | **Captura Visual**
 | **Processamento**
 | **IA** |
